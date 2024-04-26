@@ -103,7 +103,7 @@ export default function ShowProductDetail({dto}: Props) {
             <Grid container spacing={0}>
                 <Grid item paddingRight={4}>
                     <ButtonBase sx={{ width: '100%', borderRadius: '16px', overflow: 'hidden' }}>
-                        <Img alt="complex" src={dto.image_url} sx={{ width: '100%', maxHeight: '420px', objectFit: 'cover' }} />
+                        <Img alt="complex" src={dto.image_url} sx={{ width: '100%', maxHeight: '380px', objectFit: 'cover' }} />
                     </ButtonBase>
                 </Grid>
                 <Grid item xs={12} sm container>

@@ -14,7 +14,7 @@ const VideoBackground = () => {
                     objectFit: 'cover',
                 }}
             >
-                <source src="src/assets/Reclameregister.mp4" type="video/mp4" />
+                <source src="https://shop.stephenfung.today/Reclameregister.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
             <Container
